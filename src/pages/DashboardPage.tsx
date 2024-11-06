@@ -74,8 +74,16 @@ const DashboardPage: React.FC = () => {
         <MetricCard title="Average CPU Usage" value="65%" icon={<Cpu className="h-8 w-8 text-blue-500" />} />
         <MetricCard title="Active Instances" value="24" icon={<Server className="h-8 w-8 text-purple-500" />} />
       </div>
+      <div className="flex flex-col items-center justify-center mt-6">
+        <button onClick={openCalculator} className="text-xl font-semibold bg-green-500 text-white px-6 py-3 rounded-lg shadow-lg hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-400">
+          Open Calculator
+        </button>
+      </div>
     </div>
   );
+};
+const openCalculator = () => {
+  window.location.href = '../calculator/index.html';  // Redirect to the calculator
 };
 
 const DashboardCard: React.FC<{ title: string; children: React.ReactNode }> = ({ title, children }) => {

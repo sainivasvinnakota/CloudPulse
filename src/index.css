@@ -9,3 +9,12 @@ body {
 .gradient-bg {
   background: linear-gradient(90deg, #00FF00 0%, #0000FF 100%);
 }
+*::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+* {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
