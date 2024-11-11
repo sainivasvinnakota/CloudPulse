@@ -46,6 +46,19 @@ CloudPulse is committed to promoting sustainability by reducing the carbon footp
 
 ---
 
+## Technologies Used
+
+**CloudPulse** is built using the following technologies:
+
+- **TypeScript**: For building a robust, scalable, and maintainable backend.
+- **JavaScript**: For implementing frontend functionality and interactivity.
+- **HTML**: For structuring the web pages and creating the user interface.
+- **CSS**: For styling and ensuring responsive and visually appealing layouts.
+
+These technologies together ensure that CloudPulse is a dynamic, efficient, and user-friendly platform for monitoring and optimizing energy consumption in cloud systems.
+
+---
+
 ## Installation
 
 To set up **CloudPulse** locally, follow these steps:
@@ -98,11 +111,6 @@ We welcome contributions to **CloudPulse**! To contribute:
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgments
 
@@ -110,6 +118,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Node.js** and **React** for powering the backend and frontend of the platform.
 - All contributors and supporters of the CloudPulse project.
 
+---
+## Webpage
+
+<li><a href="">CloudPulse</li>
+
+---
+## Contributers
+ <li>
+    <ul>P.Karun Raj - <a href="https://github.com/karunraj07">GITHUB</a></ul></li>
+  <li>
+    <ul>S.V.V.Satya Narayana Reddy - <a href="https://github.com/sudheerreddysabbella">GITHUB</a></ul></li>
+  <li>
+    <ul>V.Sai Nivas - <a href="https://github.com/sainivasvinnakota">GITHUB</a></ul></li>
+  <li>
+    <ul>S.Kamal Kumar- <a href="https://github.com/kamalsivuku">GITHUB</a></ul></li>
+    
 ---
 
 ## Conclusion
